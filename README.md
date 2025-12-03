@@ -46,6 +46,15 @@ GIF created with **your chosen GIF tool**
 - [ScreenToGif](https://www.screentogif.com/) for Windows
 - [peek](https://github.com/phw/peek) for Linux. -->
 
+
+<div>
+    <a href="https://www.loom.com/share/15149ff55e374df0b95586cf14a31694">
+    </a>
+    <a href="https://www.loom.com/share/15149ff55e374df0b95586cf14a31694">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/15149ff55e374df0b95586cf14a31694-f2966f36dae6305d-full-play.gif#t=0.1">
+    </a>
+  </div>
+
 ## Notes
 
 Here's a place for any other notes on the app, it's creation process, or what you learned this unit!
